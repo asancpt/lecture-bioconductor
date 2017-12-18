@@ -5,6 +5,6 @@ SC 11 Education Program (November, 2011) by Randall Pruim <https://github.com/rp
 `Master-StatsForScience.pdf`
 
 - 2017-12-18 AM: Chapter 4. Some biology Specific Applications of R
-- 2017-12-18 PM: Chapter X
+- 2017-12-18 PM: Chapter 4: `bio3d` package, Chapter 5
 
 
